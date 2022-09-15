@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "recording2",
+    "slug": "recording2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "recording2"
+}
